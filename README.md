@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AvinashGandhasiri
-- 👀 I’m a profession Software Development Engineer in Test
+- 👀 I’m a professional Software Development Engineer in Test and Manage/Lead a group of Engineers.
 - 🌱 I’m currently learning Fullstack development and also keen about learning cloud tools and get myself familiarize with GCP and AWS
 - Hobby: Watch Anime, Parttime Photographer, Filmmaker and fulltime Dreamer!!
 - 💞️ I’m looking to collaborate on movie making, fun coding
-- 📫 How to reach me ... Linkedin, 
+- 📫 Reach me on www.linkedin.com/in/avinash-gandhasiri
 
 <!---
 AvinashGandhasiri/AvinashGandhasiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
