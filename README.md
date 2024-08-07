@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Fullstack development and also keen about learning cloud tools and get myself familiarize with GCP and AWS
 - Hobby: Watch Anime, Parttime Photographer, Filmmaker and fulltime Dreamer!!
 - 💞️ I’m looking to collaborate on movie making, fun coding
-- 📫 Reach me on www.linkedin.com/in/avinash-gandhasiri
+- 📫 Reach me at www.linkedin.com/in/avinash-gandhasiri
 
 <!---
 AvinashGandhasiri/AvinashGandhasiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
